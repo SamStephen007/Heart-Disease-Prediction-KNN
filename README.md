@@ -67,9 +67,9 @@ Prediction: `Heart Disease`
 
 ---
 ## Screen Shots and Visualization
-![HeartDisease](Images\Figure_1.png)
-![HeartDisease](Images\safe.png)
-![HeartDisease](Images\danger.png)
+![HeartDisease](Images/Figure_1.png)
+![HeartDisease](Images/safe.png)
+![HeartDisease](Images/danger.png)
 
 ## Author
 
